@@ -1,2 +1,2 @@
-# chatte
+# chatte store
 just skzoo things
